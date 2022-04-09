@@ -8,3 +8,9 @@ Also:rocket: did :rocket: you :rocket: know :rocket: that :rocket: my :rocket: i
 I:rocket:t:rocket:':rocket:s:rocket: :rocket:b:rocket:l:rocket:a:rocket:z:rocket:i:rocket:n:rocket:g:rocket:l:rocket:y:rocket: :rocket:f:rocket:a:rocket:s:rocket:t:rocket:!:rocket:!:rocket:!:rocket: :rocket::rocket::rocket:
 
 :rocket::racket:ricket::rockit:
+
+If you have any issues / complaints / suggestions / feedback / improvements ~~keep them to yourself~~ feel free to create an issue / pr.
+
+# Installation
+
+idfk figure it out 

@@ -1,4 +1,8 @@
 # rust-hello-world
+
+[![rust!!](https://forthebadge.com/images/badges/made-with-rust.svg)](#)
+[![blazingly fast!](https://forthebadge.com/images/badges/made-with-rust.svg)](#)
+
 A brief blazingly fast :rocket: implementation of a simple hello world program in rust since they said it couldn't be done.
 
 :rocket: fast :rocket:
@@ -9,8 +13,16 @@ I:rocket:t:rocket:':rocket:s:rocket: :rocket:b:rocket:l:rocket:a:rocket:z:rocket
 
 :rocket::racket:ricket::rockit:
 
-If you have any issues / complaints / suggestions / feedback / improvements ~~keep them to yourself~~ feel free to create an issue / pr.
+If you have any issues / complaints / suggestions / feedback / improvements ~~keep them to yourself~~ feel free to create an issue / pr. 🚀🚀🚀🚀 (only if theyre blazingly fast! 🚀)
 
-# Installation
+# Blazingly fast Features 🚀🚀
 
-idfk figure it out 
+**🚀 Blazingly fast! 🚀🚀**
+
+**🦀 Uses rust 🚀🦀🦀!**
+
+# Blazingly fast Installation 🚀🚀🚀
+
+idfk figure it out 🚀🚀
+
+# 🚀🚀🚀🚀🚀🚀🚀🚀🚀
